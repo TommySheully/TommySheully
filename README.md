@@ -28,7 +28,7 @@
 
 ## ⚔️ My CodeWars: ## 
 
-![alt rank](https://www.codewars.com/users/TommySheully)
+![alt rank]([https://www.codewars.com/users/TommySheully](https://www.codewars.com/users/TommySheully/badges/large))
 
 ### 📫 How to reach me: ###
 
