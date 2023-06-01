@@ -24,7 +24,7 @@
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
 ## ⚔️ My CodeWars: ## 
